@@ -5,7 +5,7 @@ import java.awt.*;
 
 /**
  * Constructor for objects of class Car
- * Joris was hier ook 
+ * Joris was hier ook!
  */
 
 public class AdHocCar extends Car {
