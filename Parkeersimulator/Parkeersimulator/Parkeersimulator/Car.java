@@ -11,7 +11,7 @@ public abstract class Car {
 
     /**
      * Constructor for objects of class Car
-     * Joris was hier weer 
+     * ANdfgdfgsgsdy
      */
     public Car() {
 
